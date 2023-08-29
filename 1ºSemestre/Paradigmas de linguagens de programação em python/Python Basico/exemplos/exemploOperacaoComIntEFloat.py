@@ -1,0 +1,7 @@
+print(type(2+3+1))
+print(type(2+3+1.0))
+print (2**3)
+print (type(2**3))
+print (type(2.0**3))
+print(5/2)
+print(5%2)
